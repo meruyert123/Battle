@@ -4,7 +4,7 @@
 
 1. Clone the repository onto your local machine
 ```
-$ git clone 
+$ git clone https://github.com/meruyert123/Battle.git
 ```
 2. Install Xcode
 
